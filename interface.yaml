@@ -1,0 +1,4 @@
+name: hadoop-rest
+summary: Interface for receiving only host information from Apache Hadoop
+version: 1
+maintainer: "Big Data Team <bigdata@lists.ubuntu.com>"
